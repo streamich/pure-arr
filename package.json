@@ -1,13 +1,13 @@
 {
-  "name": "pure-array",
+  "name": "pure-arr",
   "version": "1.0.0",
   "description": "",
   "author": {
     "name": "streamich",
     "url": "https://github.com/streamich"
   },
-  "homepage": "https://github.com/streamich/pure-array",
-  "repository": "streamich/pure-array",
+  "homepage": "https://github.com/streamich/pure-arr",
+  "repository": "streamich/pure-arr",
   "license": "Unlicense",
   "engines": {
     "node": ">=6.9"
